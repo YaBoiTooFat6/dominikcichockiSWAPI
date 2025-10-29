@@ -5,4 +5,4 @@ Po uruchomieniu strony trzeba odpowiedzieć na 10 pytań, wybierając jedną z c
 Technologie: HTML, CSS, JavaScript  
 Dane pochodzą z: https://swapi.dev  
 Tło pochodzi z: https://www.transparenttextures.com/patterns/stardust.png
-Aby uruchomić: https://YaBoiTooFat6.github.io/dominikcichockiSWAPI/
+Aby uruchomić: https://yaboitoofat6.github.io/dominikcichockiSWAPI/
